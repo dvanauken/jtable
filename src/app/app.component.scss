@@ -1,0 +1,33 @@
+/* General styles for the whole application */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 2px;
+  color: #333;
+}
+
+/* Header styles */
+header {
+  background-color: #0057b7;
+  color: #fff;
+  padding: 2px 2px;
+  text-align: center;
+  font-size: 16px;
+}
+
+/* Main content area */
+main {
+  margin-top: 5px;
+}
+
+/* Footer styles */
+footer {
+  text-align: center;
+  padding: 10px 20px;
+  background-color: #222;
+  color: #fff;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
